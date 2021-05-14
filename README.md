@@ -18,6 +18,6 @@ Project idea is to create automatic blind opener which opens or closes blinds wh
 
 ## Demonstration
 
-**NOTE: THIS IS JUST PLACEHOLDER**
-[![Placeholder](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Placeholder")
+Click image to watch
+[![demonstration](http://i3.ytimg.com/vi/QiO7f5ilPeM/maxresdefault.jpg)](https://www.youtube.com/watch?v=QiO7f5ilPeM "Principles of digital fabrication 2021")
 
