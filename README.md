@@ -14,8 +14,10 @@ Project idea is to create automatic blind opener which opens or closes blinds wh
 
 ## Wiring
 
-<**INSERT IMAGE HERE**>
+<**INSERT IMAGE(S) HERE**>
 
 ## Demonstration
 
-<**INSER VIDEO HERE**>
+**NOTE: THIS IS JUST PLACEHOLDER**
+[![Placeholder](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Placeholder")
+
