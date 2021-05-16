@@ -14,8 +14,8 @@ Project idea is to create automatic blind opener which opens or closes blinds wh
 
 ## Wiring
 
-<img src="images/01.jpg" width="300" height="600"> | <img src="images/02.jpg" widht="300" height="600">
-|<img src="images/05.jpg" widht="300" height="600">
+<img src="images/01.jpg" width="250" height="500"> | <img src="images/02.jpg" widht="250" height="500">
+|<img src="images/05.jpg" widht="250" height="500">
 
 ## Demonstration
 
